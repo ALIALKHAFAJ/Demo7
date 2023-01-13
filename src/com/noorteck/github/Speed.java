@@ -10,5 +10,8 @@ public class Speed {
 		
 		
 	}
+	public static void display() {
+		
+	}
 
 }
